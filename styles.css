@@ -131,7 +131,7 @@ body {
 
 .glass-header a:hover {
   color: #ff6666;
-  text-shadow: 0 0 10px #ff6666;
+  text-shadow: 0 0 10px #ff6666; /* Efeito neon no hover */
 }
 
 .profile-pic {
@@ -213,7 +213,6 @@ h3 {
 }
 
 section {
-  padding: 0px;
   text-align: center;
 }
 
